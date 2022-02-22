@@ -16,3 +16,5 @@ Vuforia Package:
 https://drive.google.com/file/d/14vW1c1qdd2ED4Si_5LHMTHMiyvbfDiy0/view?usp=sharing 
 
 This tgz file should go within the Package folder of your project, and then you should be able to use the code to view "The Girl on the Train" book information.
+
+Certain limitations of this project include the quality of the back cover image. This image was only rated 4 stars by Vuforia, which led to some difficulties with getting the text to display properly. Because of this, I put the toggle button on the front cover image tracker since it was able to track better. 
